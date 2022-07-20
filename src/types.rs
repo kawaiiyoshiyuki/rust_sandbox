@@ -31,6 +31,7 @@ pub fn run() {
   let is_greater: bool = 10 < 5;
 
   let a1 = 'a';
+  // emoji
   let face = '\u{1F600}';
 
   println!("{:?}", (x, y, z, is_active, is_greater, a1, face));
